@@ -18,4 +18,10 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+*This is an automatically generated test for [showyourwork](https://github.com/showyourwork/showyourwork) generated from the file [test_pr.py](https://github.com/showyourwork/showyourwork/blob/main/tests/integration/test_pr.py).*
+
+
+Test pull request behavior, including the generation of the diff using
+``latex-diff`` and the automated PR message with the link to the PDF.
+
+
